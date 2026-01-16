@@ -8,11 +8,11 @@
   "allowInbox": false,
   "notiGroup": true,
   "NOTIFICATION": true,
-  "EMAIL": "your email",
+  "EMAIL": "atharislamusaid.torikul@gmail.com",
   "PASSWORD": "your password",
   "OTPKEY": "",
   "BOTNAME": "TOM-TORIKUL",
-  "PREFIX": "/",
+  "PREFIX": "//",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
