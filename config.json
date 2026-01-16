@@ -12,7 +12,7 @@
   "PASSWORD": "your password",
   "OTPKEY": "",
   "BOTNAME": "TOM-TORIKUL",
-  "PREFIX": "//",
+  "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
