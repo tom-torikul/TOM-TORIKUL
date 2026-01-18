@@ -31,7 +31,7 @@ module.exports.languages = {
 ┃ ⏳ Cooldown: %7s
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: %8
-┃ 🤖 Bot Name: %9
+┃ 🤖 Bot Name: %9 TORIKUL
 ┃ 👑 Owner: TOM-TORIKUL
 ╰━━━━━━━━━━━━━━━━╯`,
         "helpList": "[ There are %1 commands. Use: \"%2help commandName\" to view more. ]",
